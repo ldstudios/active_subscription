@@ -7,3 +7,7 @@ This gem (which has no implementation currently) will do the following:
   1.  Provide a common DSL for managing subscriptions across Credit Card Gateways.
   2.  Be a complement to any app that is using ActiveMerchant already.
   3.  Be familiar to anyone who has used ActiveMerchant.
+
+## Want to help?
+
+Contact [Daniel Rice](https://github.com/danielricecodes) directly.
